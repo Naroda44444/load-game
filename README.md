@@ -83,3 +83,4 @@ python launcher.py
 
 Навчальний проєкт для практики Python 💙
 Можна вільно змінювати та покращувати.
+<img width="734" height="523" alt="image" src="https://github.com/user-attachments/assets/ed9a9a19-855c-43ef-8683-df5fcf40a8b1" />
